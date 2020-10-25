@@ -1,5 +1,5 @@
 # IBM-dicoding
-This is a project concerning image classification to fulfill the requirement of IBM-dicoding. I was given an opportunity by  IBM Indonesia New Collar &amp; Skill Accelerator Center as one of their scholarship awardee. In this project, I have to make a deep learning algorithm to employ image classification n rock-paper-scissor dataset.
+This is a project concerning image classification to fulfill the final requirement of completing IBM-dicoding 2020 training class. I was given an opportunity by IBM Indonesia New Collar &amp; Skill Accelerator Center as one of their scholarship awardee. In this project, the Deep learning approach is employed to do image classification on rock-paper-scissor dataset.
 
 This is the result that I obtained. I performed convolutional neural network with adam optimizer with adaptive learning rate.
 <img src="https://github.com/venansiusrt/IBM-dicoding/blob/main/summary.jpg" width="500">
