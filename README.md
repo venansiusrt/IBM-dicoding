@@ -4,3 +4,5 @@ This is a project concerning image classification to fulfill the requirement of 
 This is the result that I obtained. I performed convolutional neural network with adam optimizer with adaptive learning rate.
 <img src="https://github.com/venansiusrt/IBM-dicoding/blob/main/summary.jpg" width="500">
 <img src="https://github.com/venansiusrt/IBM-dicoding/blob/main/visualization.jpg" width="500">
+
+I obtained accruacy of 98% (training set) and 97% (on validation set) with 3:2 split ratio.
