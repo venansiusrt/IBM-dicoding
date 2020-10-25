@@ -6,3 +6,5 @@ This is the result that I obtained. I performed convolutional neural network wit
 <img src="https://github.com/venansiusrt/IBM-dicoding/blob/main/visualization.jpg" width="500">
 
 I obtained accruacy of 98% (training set) and 97% (on validation set) with 3:2 split ratio.
+
+If you have a problem seeing my work, then please click [here](https://nbviewer.jupyter.org/github/venansiusrt/IBM-dicoding/blob/main/IBM_Dicoding.ipynb).
